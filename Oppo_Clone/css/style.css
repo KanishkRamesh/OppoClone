@@ -1,0 +1,106 @@
+#div1{
+    background-color: white; 
+    padding: 8px;
+    
+}
+#logo{
+    width: 10%;
+    float: left;
+    padding-left: 20px;
+    
+}
+#nav1{
+    color:black;
+    font-weight: 300;
+    padding-left: 15%;
+    display: block;
+}
+#search{
+    width: 20%;
+    background-color: rgb(238, 238, 238);
+}
+#search:hover{
+    background-color: rgb(216, 216, 216);
+}
+.icon1{
+    padding-left: 2%;
+}
+.icon{
+    font-size: 150%;
+    padding-left: 2%;
+    color: black;
+}
+
+/*flex1*/
+#img1e1{
+    padding-left: 6%;
+    font-size: 280%;
+    padding-top: 2%;
+}
+#img1e2{
+    padding-left: 6%;
+    font-size: 150%;
+    padding-bottom: 20%;
+    
+}
+#img1e3{
+    padding-left: 6%;
+    font-size: 100%;
+    padding-bottom: 1%;
+    opacity: 90%;
+    
+}
+.b1{
+    padding: 1%;
+    margin-bottom: 2%;
+    margin-left: 6%;
+    border-style: solid;
+    background-color: transparent;
+    border-radius: 18px;
+}
+.b1:hover{
+    background-color: rgb(255, 255, 255);
+}
+.b2{
+    width: 10%;
+    padding: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 18px;
+}
+.b2:hover{
+    opacity: 70%;
+}
+/*view more*/
+.more{
+    text-align: center;
+    color: black;
+    text-decoration: solid;
+    font-size: 120%;
+}
+.more:hover{
+    color: rgb(21, 145, 38);
+}
+/*flex2*/
+footer {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+.icon2:hover{
+    background-color: rgb(195, 195, 195);
+}
+#foo{
+    color: rgb(227, 226, 226);
+    text-decoration: none;
+}
+#foo:hover{
+    color: white;
+}

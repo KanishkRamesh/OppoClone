@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    padding: 30px;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;  
+    position: relative;
+    top:125px;
+}
+.format{
+    border-radius:20px;
+    width:200px;
+    height:30px;
+}
+.format1{
+    border-radius:20px;
+    background-color: rgb(177, 227, 247);
+    width:200px;
+    height:30px;
+}
+.container1{
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top:85px
+}
+#smile:hover{
+    color: yellow;
+}
+#int:hover{
+    background-color: rgb(217, 214, 214);
+}
+#int1:hover{
+    background-color: rgb(111, 191, 244);
+}
